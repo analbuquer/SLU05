@@ -1,2 +1,6 @@
 buckwheat
+<<<<<<< HEAD
 douro
+=======
+dao
+>>>>>>> branch2
