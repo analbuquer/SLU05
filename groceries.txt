@@ -2,3 +2,6 @@ bananas
 pears
 peanuts
 butter
+ice cream
+popcorn
+donuts
